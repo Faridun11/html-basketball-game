@@ -1,0 +1,83 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 20px;
+    background: #b3a2b59c;
+}
+
+.savat {
+    position: fixed;
+    top: -50px;
+    left: -15px;
+    width: 270px;
+    background-color: rgb(130, 129, 129);
+    border-radius: 10px;
+}
+
+.savat img {
+    width: 300px;
+    transform: translateX(-1);
+}
+
+.savat1 {
+    position: fixed;
+    top: 90px;
+    left: 1080px;
+    z-index: 5;
+}
+
+.card {
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.card img {
+    position: fixed;
+    top: 450px;
+    z-index: 2;
+    animation-duration: 5s;
+    animation-name: ballAnime;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes ballAnime {
+    0% {
+        top: 450px;
+        left: 1115px;
+        transform: rotate(0);
+
+    }
+
+    25% {
+        top: 40px;
+        left: 110px;
+        transform: rotate(360deg);
+    }
+
+    50% {
+        top: 450px;
+        left: 100px;
+        transform: rotate(0);
+    }
+
+    75% {
+        top: 40px;
+        left: 1115px;
+        transform: rotate(360deg);
+    }
+
+    100% {
+        top: 450px;
+        left: 1080px;
+        transform: rotate(0);
+    }
+}
