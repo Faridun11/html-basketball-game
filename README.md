@@ -1,6 +1,12 @@
+
 # 🏀 Basketball Game
 
 Welcome to **Basketball Game**! This is a fun and interactive basketball game where players can shoot hoops, score points, and compete for the highest score. Whether you're a casual gamer or a basketball enthusiast, this game is designed to bring an exciting experience.
+
+## 📸 Screenshots
+Add your game screenshots here to showcase the gameplay.
+
+![Game Screenshot 1](scr/images/image.png)
 
 ## 🎮 Features
 - 🏆 **Multiple Game Modes**: Free play, time challenge, and high-score mode.
@@ -8,28 +14,6 @@ Welcome to **Basketball Game**! This is a fun and interactive basketball game wh
 - 🎨 **Cool Graphics**: A visually appealing basketball court and animations.
 - 🎵 **Sound Effects**: Enjoy the sounds of bouncing balls and cheering crowds.
 - 📊 **Score Tracking**: Keep track of your best scores and challenge yourself!
-
-## 🛠️ Installation
-To get started with the Basketball Game, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Faridun11/html-basketball-game.git
-   ```
-2. **Navigate to the project folder:**
-   ```bash
-   cd html-basketball-game
-   ```
-3. **Install dependencies (if applicable):**
-   ```bash
-   npm install   # If using JavaScript/Node.js
-   pip install -r requirements.txt  # If using Python
-   ```
-4. **Run the game:**
-   ```bash
-   npm start  # For JavaScript-based games
-   python main.py  # For Python-based games
-   ```
 
 ## 🕹️ How to Play
 1. Launch the game using the installation steps above.
@@ -39,7 +23,7 @@ To get started with the Basketball Game, follow these steps:
 
 ## 🚀 Technologies Used
 - **Game Engine**: Unity / Phaser / Pygame (whichever applies)
-- **Programming Language**: JavaScript / Python / C#
+- **Programming Language**: HTML / CSS / JavaScript
 - **Graphics**: Custom sprites and animations
 
 ## 🤝 Contributing
@@ -52,7 +36,8 @@ Contributions are welcome! If you’d like to improve the game, follow these ste
 
 ## 📬 Contact
 For any questions or suggestions, feel free to reach out:
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/Faridun11)
+- Email: faridunfakhridinov777@gmail.com
+- GitHub: [Faridun11](https://github.com/Faridun11)
 
 Enjoy the game and have fun shooting hoops! 🏀🔥
+
